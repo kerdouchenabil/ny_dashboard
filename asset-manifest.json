@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/https//kerdouchenabil.github.io/ny_dashboard/static/css/main.b9615243.css",
+    "main.js": "/https//kerdouchenabil.github.io/ny_dashboard/static/js/main.85cdc012.js",
+    "static/media/hosting_img.png": "/https//kerdouchenabil.github.io/ny_dashboard/static/media/hosting_img.5f46ee72cd53ef001275.png",
+    "static/media/investment_img.png": "/https//kerdouchenabil.github.io/ny_dashboard/static/media/investment_img.762ee89ad4452019bab2.png",
+    "static/media/ny_logo.png": "/https//kerdouchenabil.github.io/ny_dashboard/static/media/ny_logo.b6b6358352389861428e.png",
+    "static/media/dataset-cover.jpg": "/https//kerdouchenabil.github.io/ny_dashboard/static/media/dataset-cover.bb6430c13f0c600db146.jpg",
+    "static/media/tourism_img.jpg": "/https//kerdouchenabil.github.io/ny_dashboard/static/media/tourism_img.f8ca144edfbbba2386f8.jpg",
+    "index.html": "/https//kerdouchenabil.github.io/ny_dashboard/index.html",
+    "main.b9615243.css.map": "/https//kerdouchenabil.github.io/ny_dashboard/static/css/main.b9615243.css.map",
+    "main.85cdc012.js.map": "/https//kerdouchenabil.github.io/ny_dashboard/static/js/main.85cdc012.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9615243.css",
+    "static/js/main.85cdc012.js"
+  ]
+}
